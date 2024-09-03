@@ -5,7 +5,7 @@ This project provides a Python script to read data from a SpaceMouse device and 
 
 Open a terminal or command prompt and clone the repository using Git:
 
-git clone https://your-repository-url.git
+git clone https://github.com/Jeeva002/space_mouse_Websocket_Only.git
 
 Navigate to the Cloned Directory
 

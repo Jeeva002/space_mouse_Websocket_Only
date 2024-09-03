@@ -1,0 +1,9 @@
+2024-09-03 11:59:30.221 - BeforeWebsocket - 2024-09-03 11:59:30.153431{"x": 0.0, "y": 0.0, "z": -0.15, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": 1725344970.153431}
+2024-09-03 11:59:30.222 - AfterWebsocket - {"x": 0.0, "y": 0.0, "z": -0.15, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": 1725344970.153431}
+2024-09-03 11:59:30.222 - BeforePublishingToRos - [{"x": 0.0, "y": 0.0, "z": -0.15, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": 1725344970.153431}]
+2024-09-03 11:59:31.223 - BeforeWebsocket - 2024-09-03 11:59:31.161398{"x": 0.0, "y": 0.26, "z": -0.41, "roll": 0.02, "pitch": 0.13, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": 1725344971.161398}
+2024-09-03 11:59:31.224 - AfterWebsocket - {"x": 0.0, "y": 0.26, "z": -0.41, "roll": 0.02, "pitch": 0.13, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": 1725344971.161398}
+2024-09-03 11:59:31.224 - BeforePublishingToRos - [{"x": 0.0, "y": 0.26, "z": -0.41, "roll": 0.02, "pitch": 0.13, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": 1725344971.161398}]
+2024-09-03 11:59:32.239 - BeforeWebsocket - 2024-09-03 11:59:32.169456{"x": 0.02, "y": 0.0, "z": -0.38, "roll": 0.04, "pitch": -0.15, "yaw": 0.07, "button0": 0, "button1": 0, "timeStamp": 1725344972.169456}
+2024-09-03 11:59:32.239 - AfterWebsocket - {"x": 0.02, "y": 0.0, "z": -0.38, "roll": 0.04, "pitch": -0.15, "yaw": 0.07, "button0": 0, "button1": 0, "timeStamp": 1725344972.169456}
+2024-09-03 11:59:32.239 - BeforePublishingToRos - [{"x": 0.02, "y": 0.0, "z": -0.38, "roll": 0.04, "pitch": -0.15, "yaw": 0.07, "button0": 0, "button1": 0, "timeStamp": 1725344972.169456}]
